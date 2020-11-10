@@ -1,0 +1,72 @@
+body{
+    background:#D2EAE1;
+}
+
+
+
+h1 {
+position: relative;
+font-size: 50pt;
+top: 40px;
+left: 10px;
+    color:#FF8BE0;
+}
+
+
+.smiling{
+    position: relative;
+    top:80px;
+    left:10px;
+    
+}
+
+.singing{
+    position: relative;
+    top: 30px;
+    left:850px;
+    width: 450px;
+}
+
+
+h2 {
+position: relative;
+font-size: 30pt;
+top: -350px;
+left: 750px; 
+width: 500px;
+}
+
+h3{
+ position: relative;
+font-size: 30pt;
+top: -900px;
+left: 30px;
+width: 500px;
+}
+
+
+.earlycareer {
+width: 600px;
+ position: relative;
+ font-size: 17px;
+ top:-350px;
+  left:750px;   
+    
+}
+
+
+.mainbreak{
+  position: relative;
+    font-size: 17px;
+    top:-900px;
+    left:30px;  
+    width: 600px;
+    
+}
+
+.tweet{
+    position: relative;
+    top:-1000px;
+    left:60px;
+    
+}

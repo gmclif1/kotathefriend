@@ -1,0 +1,90 @@
+
+* {
+    font-family: 'Inter', sans-serif;
+
+}
+
+h1{
+    
+    position: relative;
+    align-content:center;
+    font-size: 150px; 
+    color:white;
+    top:30px;
+    left:600px;
+    font-weight: 100;
+    
+    
+
+}
+
+
+h2{
+    position: relative;
+    font-size:25px;
+    color:white;
+    top: -70px;
+    left:585px;
+  
+}
+
+
+.image {
+    position: absolute;
+    top: 0px;
+    left:0px;
+}
+
+.messages {
+position: relative;
+color:darkslategrey;
+    top:-55px;
+    left:580px;
+    font-size: 15px;
+    
+    
+}
+
+
+.touch{
+    position: relative;
+    top:100px;
+    left:590px;
+    font-size:30px;
+    font-size: 30px;
+    
+}
+
+.touch a{
+    color:white;
+     
+}
+
+.minutes{
+    position:relative;
+    color:darkslategrey;
+    top:-95px;
+    left:865px;
+}
+
+
+.messagesicon{
+    
+position: absolute;
+top:375px;
+left:565px;
+}
+
+
+.messagebox{
+    position:absolute;
+    top: 370px;
+    left: 550px;
+}
+
+.namewords{
+    position:relative;
+    top:-100px;
+    left:570px;
+    font-weight: bold;
+}

@@ -1,0 +1,39 @@
+
+* {
+    font-family: 'Inter', sans-serif;
+
+}
+
+.backarrow{
+    position: relative;
+    top:-70px;
+    left:20px;
+}
+
+
+
+
+.container {
+    margin: 0 auto;
+    display: grid;
+      width: 90%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.container > div{
+    padding: 5px;
+
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    font-size: 40pt;
+    top:10px;
+    color:grey;
+    
+}
+
+

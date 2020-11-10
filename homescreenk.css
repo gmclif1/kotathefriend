@@ -1,0 +1,129 @@
+
+* {
+    font-family: 'Inter', sans-serif;
+
+}
+
+
+body{
+font-size: 12pt;
+font-style:normal;
+background-image:
+}
+
+
+
+.container{
+   margin: 0 auto;
+    width: 110%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 500px;
+    align-content: center;
+    font-size:10px;
+    color:black;
+    
+}
+
+.time {
+    font-size: 15px;
+
+}
+
+.battery{
+    font-size: 12px;
+}
+
+.boarder{
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+
+.icons{
+    margin: 0 auto;
+    width: 60%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 60px;
+    align-content: center;
+    font-size: 10px;
+    color:white; 
+    margin-top: 100px;
+    
+}
+
+.bottompair{
+    margin: 0 auto;
+    width: 40%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 60px;
+    align-content: center;
+    font-size: 10px;
+    color: white;    
+}
+
+   /* .wrapper{
+    background-image:url("kotaphotos/kota's3yrold.jpeg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    /* padding: 5px; */
+    min-width: 100vw;
+    /* object-fit: cover; */
+    width: 100%;
+    display: block; 
+    
+} */
+
+
+    .wrapper{
+    position:relative;
+    height: 100vh;
+    /* padding: 5px; */
+    min-width: 100vw;
+    /* object-fit: cover; */
+    width: 100%;
+    display: block;
+    
+}
+
+.backgroundphoto{
+    position: absolute;
+    top:0px;
+    width: 100vw;
+    z-index: -1;
+}
+
+.backgroundphoto img {
+    display:block;
+    width:100%;
+    height:100%;
+}
+
+
+
+  .icon{
+        display: flex;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+}
+
+
+.icon p{
+    margin-top: 0px;
+}
+
+
+.bottompair{
+    text-align:center;
+}
+
+.bottompair p{
+    margin-top: 0px;
+}
+
+

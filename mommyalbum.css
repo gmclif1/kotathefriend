@@ -1,0 +1,43 @@
+
+* {
+
+    background-color:#D1F0FF;
+
+}
+
+
+
+h1 {
+position: relative;
+font-size: 50pt;
+top: 40px;
+left: 10px;
+font-family: 'Inter', sans-serif;
+}
+
+
+.songs {
+    font-size: 10pt;
+    width: 513px;
+    position: relative;
+    top: 43px;
+    left: 7px;
+
+}
+
+.lyrics {
+    font-size: 12pt;
+    position: relative;
+    left: 700px;
+    top: -570px;
+    width: 600px;
+}
+
+audio {
+   position: relative;
+    top: 55px;
+    left: -510px;
+   
+}
+
+

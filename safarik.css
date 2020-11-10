@@ -1,0 +1,120 @@
+
+.greyletters {
+    color:darkgray;
+}
+
+
+
+.container{
+   margin: 0 auto;
+    width: 110%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 500px;
+    align-content: center;
+    font-size: 10px;
+    
+}
+
+
+.time{
+    font-size: 15px;
+
+}
+
+.battery{
+    font-size: 12px;
+    
+}
+
+
+.boarder{
+    position: absolute;
+    top:0px;
+    left:0px;}
+
+.searchbar {
+
+    grid-template-columns: 1fr;
+    align-content: center;
+    display: grid;
+    width: 55%;
+    margin: 0 auto;
+    grid-column-gap: 50px;
+    z-index: -1;
+
+}
+
+.searchengine a{
+    color:black;
+}
+
+.questions{
+    margin: 0 auto;
+    width: 20%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 10px;
+    align-content: center;
+    font-size: 18px;
+    color:black;   
+    
+}
+
+.questions a{
+    color:gray;
+}
+
+.zoom{
+    margin: 0 auto;
+    width: 25%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 55px;
+    align-content: center; 
+    margin-top:-326px;
+    
+}
+
+.backarrow{
+    position: relative;
+    top:30px;
+    left:10px;
+}
+
+
+.cancel {
+    
+position:relative;
+top:-140px;
+left:1020px;
+}
+
+
+.cancel a{
+    color:blue;
+    font-size:15px;
+}
+
+.ss{
+    position: relative;
+    left:350px;
+    top:-30px;
+}
+
+.searchengine {
+    position: relative;
+    top:-70px;
+    left:500px;
+    font-size:18px;
+}
+
+.greyletters{
+    position: relative;
+    top:-108px;
+    left:665px;
+}
+
+

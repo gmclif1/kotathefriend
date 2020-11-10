@@ -1,0 +1,21 @@
+h1 {
+position: relative;
+font-size: 50pt;
+top: 40px;
+left: 10px;
+}
+
+
+.songs {
+    font-size: 10pt;
+    width: 513px;
+
+}
+
+.lyrics {
+    font-size: 12pt;
+    position: relative;
+    left: 700px;
+    top: -570px;
+    width: 600px;
+}
