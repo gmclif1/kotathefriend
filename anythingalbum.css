@@ -1,3 +1,8 @@
+* {background-color: #A3C665;
+}
+
+
+
 h1 {
 position: relative;
 font-size: 50pt;
@@ -10,7 +15,8 @@ left: 10px;
     font-size: 10pt;
     width: 513px;
     position:relative;
-    top: 50px;
+    top: 43px;
+    left:7px;
 
 }
 
@@ -20,12 +26,4 @@ left: 10px;
     left: 700px;
     top: -570px;
     width: 600px;
-}
-
-.controls{
-   
-    position: relative;
-    top: 55px;
-    left: -510px;
-    
 }
