@@ -27,3 +27,9 @@ left: 10px;
     top: -570px;
     width: 600px;
 }
+
+.audio {   
+    position: relative;
+    top: 55px;
+    left: -500;
+}
